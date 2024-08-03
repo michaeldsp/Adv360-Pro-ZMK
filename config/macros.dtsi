@@ -1,6 +1,6 @@
-macro_tmux-ctrlb: macro_tmux-ctrlb{
+macro_tmuxctrlb: macro_tmuxctrlb{
 compatible = "zmk,behavior-macro";
-label = "macro_tmux-ctrlb";
+label = "macro_tmuxctrlb";
 #binding-cells = <0>;
 bindings = <&kp LCTRL>, <&kp B>;
 };
